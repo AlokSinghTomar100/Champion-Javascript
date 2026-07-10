@@ -1,5 +1,5 @@
 console.log("chanda ki hut me bhoot")
 console.log("Ritesh gzatuuu")
   
-console.log("dw")
+console.log("qwwr")
 
